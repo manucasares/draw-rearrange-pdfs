@@ -6,8 +6,8 @@ El programa genera un JSON de un Excel, luego toma el número de cada cliente, y
 Luego reordena las páginas en orden ascendente de números de clientes.
 
 ### Utiliza:
-  Módulo **file system** integrado en Node\
-  **pdf-lib.js** para reordenar y dibujar en PDF.\
-  **pdf-parse.js** para extraer el texto del PDF.\
-  **XLSX.js** para crear un JSON a partir de un Excel.
+  * Módulo **file system** integrado en Node\
+  * **pdf-lib.js** para reordenar y dibujar en PDF.\
+  * **pdf-parse.js** para extraer el texto del PDF.\
+  * **XLSX.js** para crear un JSON a partir de un Excel.
 
