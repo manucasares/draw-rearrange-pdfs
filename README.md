@@ -9,5 +9,5 @@ Luego reordena las páginas en orden ascendente de números de clientes.
   Módulo **file system** integrado en Node\
   **pdf-lib.js** para reordenar y dibujar en PDF.\
   **pdf-parse.js** para extraer el texto del PDF.\
-  **XLSX.js** para crear un JSON a partir de un Excel.\
+  **XLSX.js** para crear un JSON a partir de un Excel.
 
