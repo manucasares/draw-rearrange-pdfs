@@ -1,0 +1,21 @@
+{
+  "name": "ayuda-para-papa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "node-fetch": "^2.6.1",
+    "pdf-lib": "^1.16.0",
+    "pdf-parse": "^1.1.1",
+    "xlsx": "^0.16.9"
+  }
+}
